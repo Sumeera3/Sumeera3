@@ -19,12 +19,13 @@
 <h3 align="left">🚀 Languages and Tools 🚀</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=blueviolet"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=orange"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=blue"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=green"/>
+  <img src="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=limegreen"/>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeera3&show_icons=true&locale=en&layout=compact" alt="sumeera3" /></p>
 
