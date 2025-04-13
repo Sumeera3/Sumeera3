@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://my-portfolio-ehwa.onrender.com)
   
-- 📄 Know about my experiences [MyResume](https://my-portfolio-ehwa.onrender.com/MyResume.pdf)
+- 📄 Know about my experiences [MyResume](https://my-portfolio-ehwa.onrender.com/Resume%20(2).pdf)
 
 
 - 📫 How to reach me **syedsumeera92@gmail.com**
